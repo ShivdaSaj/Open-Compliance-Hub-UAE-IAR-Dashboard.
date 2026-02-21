@@ -58,9 +58,7 @@ Target Users
 	• Consultants / Assessors
 
 Deployment Options
-	• On-premise web server
-	• Azure / AWS cloud hosting
-	• Lightweight architecture (no heavy GRC dependency)
+	• Web-Based 
 
 Ideal Use Cases
 	• UAE IA certification readiness

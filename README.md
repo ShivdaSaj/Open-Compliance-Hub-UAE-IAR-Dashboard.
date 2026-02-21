@@ -3,7 +3,7 @@ Open Compliance Hub – UAE IAR Compliance Portal
 Overview
 Open Compliance Hub is a lightweight, audit-ready compliance management platform designed to help organizations assess, track, and report their implementation of UAE Information Assurance Regulation (UAE IAR v1.1) controls with real-time dashboards and executive visibility.
 
-Key Business Value
+Key Dashboard Value
 	• Real-time compliance posture visibility
 	• Audit-ready reports (SoA, Excel, PDF)
 	• Risk and priority-driven implementation tracking
@@ -70,10 +70,7 @@ Ideal Use Cases
 	• Continuous compliance monitoring
 
 Roadmap / Enhancements (Optional)
-	• Role-Based Access Control (RBAC)
-	• Evidence repository
-	• Azure / SIEM integration
-	• Multi-framework support (ISO 27001, NIST, CIS)
-	• Automated compliance scoring
-![Uploading image.png…]()
-
+	• Risk Register
+	• Hardening Checklist
+	• Multi-framework support ( Cybersecurity Framework)
+<img width="1460" height="3218" alt="image" src="https://github.com/user-attachments/assets/10f4a3cc-35ed-4cc2-8b46-0a484a39acbf" />

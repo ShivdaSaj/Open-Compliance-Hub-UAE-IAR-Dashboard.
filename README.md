@@ -163,4 +163,3 @@ Important Notice
 Maintainer
 Sajin Shivdas – Cybersecurity
 https://sajinshivdas.com
-![Uploading image.png…]()

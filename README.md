@@ -44,6 +44,13 @@ Ideal for organizations preparing for **UAE IA certification** or building **con
 ![Image](docs/images/domain-view.png)
 ![Image](docs/images/priority.png)
 ![Image](docs/images/export.png)
+![Image](docs/images/control-view.png)
+![Image](https://github.com/ShivdaSaj/Open-Compliance-Hub-UAE-IAR-Dashboard./blob/b16b095e8dcd08515b81c99b1c8913aa3697dfea/docs/images/control-view%20Extend-00.png)
+![Image](https://github.com/ShivdaSaj/Open-Compliance-Hub-UAE-IAR-Dashboard./blob/b16b095e8dcd08515b81c99b1c8913aa3697dfea/docs/images/control-view%20Extend-01.png)
+![Image](https://github.com/ShivdaSaj/Open-Compliance-Hub-UAE-IAR-Dashboard./blob/b16b095e8dcd08515b81c99b1c8913aa3697dfea/docs/images/control-view%20Extend-02.png)
+![Image](https://github.com/ShivdaSaj/Open-Compliance-Hub-UAE-IAR-Dashboard./blob/b16b095e8dcd08515b81c99b1c8913aa3697dfea/docs/images/control-view%20Extend-03.png)
+![Image](https://github.com/ShivdaSaj/Open-Compliance-Hub-UAE-IAR-Dashboard./blob/b16b095e8dcd08515b81c99b1c8913aa3697dfea/docs/images/control-view%20Extend-04.png)
+
 
 [Executive Dashboard](docs/images/executive-dashboard.png)
 [Domain Compliance](docs/images/domain-view.png)

@@ -103,15 +103,10 @@ Target Users
 	• Consultants / Assessors
 
 Deployment Options
-	• On-premise web server
-	• Azure / AWS cloud hosting
-	• Lightweight architecture
-	• No heavy GRC dependency
-	• JSON-based storage (database optional)
+	• Online Web server - Client session based with Backup/Restore
 
 Ideal Use Cases
 	• UAE IA certification readiness
-	• ISO 27001 / NESA alignment
 	• Compliance gap assessment
 	• Executive reporting
 	• Continuous compliance monitoring
@@ -122,10 +117,10 @@ Planned enhancements:
 	• Risk Register module
 	• System Hardening Checklist
 	• Multi-framework support:
-		○ ISO 27001
-		○ NIST Cybersecurity Framework
 		○ CIS Controls
-	• Evidence repository
+		○ NIST Cybersecurity Framework
+		○ Other Global Framework
+	• Evidence repository (Local backup & Repository Link)
 	• Role-Based Access Control (RBAC)
 	• API integration with SIEM / GRC tools
 
@@ -163,3 +158,4 @@ Important Notice
 Maintainer
 Sajin Shivdas – Cybersecurity
 https://sajinshivdas.com
+<img width="1460" height="5873" alt="image" src="https://github.com/user-attachments/assets/6b72cfa8-3e82-4aa9-98f5-7b4c6639b8c1" />

@@ -250,7 +250,3 @@ This project is provided as an open-source compliance tool and is subject to the
 <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github">
 </a>
 </p>
-
-
-
-Just tell me — this project already looks strong for a **portfolio or open-source security brand**.

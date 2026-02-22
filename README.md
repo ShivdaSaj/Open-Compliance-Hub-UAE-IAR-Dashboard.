@@ -239,14 +239,26 @@ This project is provided as an open-source compliance tool and is subject to the
 
 ## Connect
 
-<p align="left">
-<a href="https://sajinshivdas.com">
-<img src="https://img.shields.io/badge/Website-Visit-green?logo=google-chrome">
+<!-- Socials -->
+<p align="center">
+<a href="https://sajinshivdas.com/cybersecurity/">
+  <img height="50" src="https://github.com/user-attachments/assets/a240ad2e-b4ab-487f-8888-2011002a16a7"/>
 </a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
+<a href="https://sajinshivdas.com/compliance/uaeiar/">
+  <img height="50" alt="image" src="https://github.com/user-attachments/assets/7a3f2a9e-dfce-49f3-a9dd-c5de6d267401" />
 </a>
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github">
+<a href="https://www.linkedin.com/in/sajin-shivdas/">
+  <img height="50" src="https://github.com/user-attachments/assets/3fe0bf86-19f7-48bd-93f0-141f48fb8af6"/>
+</a>
+<a href="https://x.com/sajin1424">
+  <img height="50" src="https://github.com/user-attachments/assets/0efdec09-8845-4789-9bce-a7ee99472aae" />
+</a>
+<a href="https://www.instagram.com/sajin.shivdas/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+<a href="https://in.pinterest.com/sajinshivdas/">
+  <img height="50" src="https://github.com/user-attachments/assets/6c24db72-c49c-469a-a85d-a475b2111a9e" />
 </a>
 </p>
+
+<p align="center"><a href="https://sajinshivdas.com/"><sup>www.sajinshivdas.com</sup></a></p>

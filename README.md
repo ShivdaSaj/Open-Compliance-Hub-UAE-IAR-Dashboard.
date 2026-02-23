@@ -240,7 +240,6 @@ This project is provided as an open-source compliance tool and is subject to the
 ## Maintainer
 
 **Sajin Shivdas – Cybersecurity**
-[https://sajinshivdas.com](https://sajinshivdas.com)
 
 ---
 

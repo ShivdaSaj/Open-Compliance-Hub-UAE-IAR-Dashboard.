@@ -1,7 +1,7 @@
 # Open Compliance Hub – UAE IAR Compliance Portal
 
 ![GitHub stars](https://img.shields.io/github/stars/ShivdaSaj/open-compliance-hub?style=social)
-![License](https://img.shields.io/github/license/ShivdaSaj/open-compliance-hub)
+![License](https://img.shields.io/github/license/ShivdaSaj/Open-Compliance-Hub-UAE-IAR-Dashboard.)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
 ![Framework](https://img.shields.io/badge/Framework-UAE%20IAR%20v1.1-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
@@ -213,7 +213,7 @@ open-compliance-hub/
 ## License & Legal
 
 This project is provided as an open-source compliance tool and is subject to the following:
-
+* MIT License
 * Terms & Conditions
   [https://sajinshivdas.com/cybersecurity/terms-and-conditions/](https://sajinshivdas.com/cybersecurity/terms-and-conditions/)
 

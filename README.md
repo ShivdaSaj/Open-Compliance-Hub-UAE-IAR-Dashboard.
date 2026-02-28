@@ -21,10 +21,15 @@ It provides:
 * Session-based working environment
 * Versioned backups & snapshots
 * Audit-ready reporting
-
+  
 Ideal for organizations preparing for **UAE IA certification** or building **continuous compliance programs**.
-![Image](docs/images/UAEIAR.gif)
 
+---
+
+<img width="847" height="41" alt="image" src="https://github.com/user-attachments/assets/36f038ca-f4f3-4b73-b0a9-1efbc5a1b0a1" />
+
+
+![Image](docs/images/UAEIAR.gif)
 
 ---
 

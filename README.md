@@ -23,6 +23,8 @@ It provides:
 * Audit-ready reporting
 
 Ideal for organizations preparing for **UAE IA certification** or building **continuous compliance programs**.
+![Image](docs/images/UAEIAR.gif)
+
 
 ---
 

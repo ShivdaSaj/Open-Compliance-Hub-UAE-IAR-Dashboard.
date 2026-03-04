@@ -8,6 +8,12 @@
 
 Lightweight • Open Source • Audit-Ready • Executive Dashboards
 
+<p align="center">
+  <a href="https://sajinshivdas.com/compliance/uaeiar/"><img src="https://img.shields.io/badge/Web_App-UAE IAR V1.1 Portal-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web App"></a>&nbsp;
+  <a href="https://sajinshivdas.com/compliance/"><img src="https://img.shields.io/badge/Compliance Web-Open Compliance Hub -0891b2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Compliance"></a>&nbsp;
+
+</p>
+
 ---
 
 ## Overview
